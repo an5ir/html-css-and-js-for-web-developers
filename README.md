@@ -1,2 +1,1 @@
-# module2_solution
-peer assessment for module 2 of cource
+Solution for HTML, CSS, and Javascript for Web Developers coursera course.
