@@ -1,0 +1,64 @@
+/* *****base style******* */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    border: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: crimson;
+}
+
+
+/* HEADER */
+#header-nav {
+    background: black;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo {
+    color: crimson;
+    font-size: 2em;
+}
+
+#nav-list a {
+        font-size: 1.5em;
+        color: white;
+    }
+
+
+.row {
+    width: 100%;
+}
+
+
+.row p {
+    padding: 5px;
+}
+
+
+h4.option-title {
+    margin: 0px;
+    padding-top: 10px;
+    width: 100%;
+    color: black;
+    font-weight: bold;
+}
+
+.row  section {
+    border: 0;
+    background-color: orange;
+    margin: 10px;
+    position: relative; 
+    height: 200px;
+    overflow: auto;
+}
+
+.header {
+    color: orange;
+    font-weight: bold;
+}
+
+
